@@ -1,3 +1,8 @@
+
+
+![my_screenshot_408](https://github.com/user-attachments/assets/01f82964-ebb6-4eaf-acf4-a65508bbdd64)
+
+
 # mouse-gesture-detection
 🖐️ AI Virtual Mouse using Hand Gestures
 This project enables you to control your computer mouse using only hand gestures captured through a webcam. By leveraging MediaPipe, OpenCV, and pyautogui, this virtual mouse can detect and perform various actions like:
